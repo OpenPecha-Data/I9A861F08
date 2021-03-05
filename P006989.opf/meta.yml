@@ -1,15 +1,16 @@
-id: opecha:P006989
+id: P006989
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W21699
   title: བརྩེ་དུང་གི་མིག་ཆུ།
-  volume:
+  author: ''
+  volumes:
     1a1187b97d50479692d2c5ee168f554f:
       image_group_id: I1KG22929
       title: Volume 1 of brtse dung gi mig chu
       volume_number: 1
       total_pages: 412
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: བརྩེ་དུང་གི་མིག་ཆུ།
   author: ''
