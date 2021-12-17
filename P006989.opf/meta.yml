@@ -1,7 +1,7 @@
 id: P006989
 initial_creation_type: ocr
 created_at: 29/03/2020
-last_modified_at: 25/11/2021
+last_modified_at: 2021-12-17 12:34:38.884703
 source_metadata:
   id: bdr:W21699
   title: བརྩེ་དུང་གི་མིག་ཆུ།
@@ -12,3 +12,5 @@ source_metadata:
       title: ''
       volume_number: 1
       total_pages: 412
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
